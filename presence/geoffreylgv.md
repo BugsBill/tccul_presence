@@ -1,5 +1,4 @@
-## Présentation
-
+# Présentation
 
 - Nom: Geoffrey Logovi
 - X: [geoffreylgv](https://x.com/geoffreylgv)
